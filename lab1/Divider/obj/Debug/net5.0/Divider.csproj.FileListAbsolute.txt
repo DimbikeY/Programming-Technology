@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\Divider.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\Divider.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\Divider.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\Divider.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\Divider.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\ref\Divider.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\bin\Debug\net5.0\Divider.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\ref\Divider.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\Divider\obj\Debug\net5.0\Divider.genruntimeconfig.cache

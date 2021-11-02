@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\square.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\square.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\square.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\square.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\square.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\ref\square.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\bin\Debug\net5.0\square.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\ref\square.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab1\square\obj\Debug\net5.0\square.genruntimeconfig.cache
