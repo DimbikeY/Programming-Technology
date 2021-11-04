@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\Task.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\Task.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\Task.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\Task.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\Task.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\ref\Task.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\bin\Debug\net5.0\Task.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\ref\Task.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\Task\obj\Debug\net5.0\Task.genruntimeconfig.cache

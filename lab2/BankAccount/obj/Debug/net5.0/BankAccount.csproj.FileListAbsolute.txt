@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\BankAccount.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\BankAccount.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\BankAccount.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\ref\BankAccount.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\bin\Debug\net5.0\BankAccount.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\ref\BankAccount.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\BankAccount\obj\Debug\net5.0\BankAccount.genruntimeconfig.cache

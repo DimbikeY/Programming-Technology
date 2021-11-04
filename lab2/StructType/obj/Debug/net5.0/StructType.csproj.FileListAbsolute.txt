@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\StructType.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\StructType.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\StructType.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\StructType.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\StructType.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\ref\StructType.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\bin\Debug\net5.0\StructType.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\ref\StructType.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab2\StructType\obj\Debug\net5.0\StructType.genruntimeconfig.cache
