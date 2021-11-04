@@ -14,7 +14,7 @@ namespace square
                 Console.WriteLine("Write the perimeter of the triangle.");
                 string info = Console.ReadLine();
                 double perimeter = double.Parse(info);
-                if (perimeter < 0) {
+                if (perimeter < 0 || info[0] == '-') {
                     Console.WriteLine("Use only positive numbers!");
                 }
                 else if (info.Length != 1 && info[0] == '0' && info[1] != ',')
