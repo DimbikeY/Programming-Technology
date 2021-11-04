@@ -8,7 +8,7 @@ namespace Task
         {
             public decimal height_m;
             public decimal height_s;
-            public decimal summa_both;
+            public string answer;
         }
             
         public static void Main(string[] args)
@@ -26,11 +26,12 @@ namespace Task
                 }
                 else
                 {
-                    sample.summa_both = (sample.height_m * 100) + sample.height_s;
-                    decimal length = sample.summa_both / 2.54m; // Дюймы
+                    decimal summa_both = (sample.height_m * 100) + sample.height_s;
+                    decimal length = summa_both / 2.54m; // Дюймы
                     int foot = Decimal.ToInt32(length / 12);
                     int inch = Decimal.ToInt32(length % 12);
-                    Console.WriteLine("{0} '- {1}\u0022.", foot, inch); // Символ Юникода одинарных кавычек
+                    sample.answer = foot + " '- " + inch +'\u0022' + '.';
+                    Console.WriteLine(sample.answer) ; // Символ Юникода одинарных кавычек
                 }
             }
             catch(FormatException)
@@ -40,7 +41,7 @@ namespace Task
 
 
 
-
+            
 
 
 
