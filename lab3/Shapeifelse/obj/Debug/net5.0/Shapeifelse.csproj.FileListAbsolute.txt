@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\Shapeifelse.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\Shapeifelse.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\Shapeifelse.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\Shapeifelse.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\Shapeifelse.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\ref\Shapeifelse.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\bin\Debug\net5.0\Shapeifelse.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\ref\Shapeifelse.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Shapeifelse\obj\Debug\net5.0\Shapeifelse.genruntimeconfig.cache

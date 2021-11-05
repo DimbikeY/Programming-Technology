@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\Loop.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\Loop.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\Loop.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\Loop.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\Loop.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\ref\Loop.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\bin\Debug\net5.0\Loop.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\ref\Loop.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Loop\obj\Debug\net5.0\Loop.genruntimeconfig.cache

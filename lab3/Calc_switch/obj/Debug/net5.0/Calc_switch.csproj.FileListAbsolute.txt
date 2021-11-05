@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\Calc_switch.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\Calc_switch.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\Calc_switch.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\Calc_switch.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\Calc_switch.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\ref\Calc_switch.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\bin\Debug\net5.0\Calc_switch.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\ref\Calc_switch.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab3\Calc_switch\obj\Debug\net5.0\Calc_switch.genruntimeconfig.cache
