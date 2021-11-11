@@ -41,15 +41,15 @@ namespace Loop
             do
             {
                 y = Math.Sin(x);
+                Console.WriteLine("Variable x = {0} is corresponding y = {1}", x, y);
                 x += 0.01;
             }
             while (x <= x2);
-
             // Используем цикл с предусловием.
             int a, b, temp;
             Console.Write("\nWrite a = ");
             a = int.Parse(Console.ReadLine());
-            Console.Write("Write b = ");
+            Console.Write("\nWrite b = ");
             b = int.Parse(Console.ReadLine());
             temp = a; // Дальше будет алгоритм Евклида.
             while (temp != b) // Допустим, возьмем числа a = 3 b= 5; 3!=5
@@ -64,6 +64,7 @@ namespace Loop
                     a = b;        // a = 3 как и b = 3. Условие выполнилось (нарушилось)
                 }
             }
+            Console.WriteLine("a = {0}, b = {1}", a, b);
             // Реализуем задачу вывода значений функции с помощью цикла с предусловием
             // Задача наоборот то есть.
             double g, g1, g2, h;  // Объявляем 4 переменных вещественного типа.
@@ -76,6 +77,7 @@ namespace Loop
             while (g <= g2)
             {
                 h = Math.Sin(g);
+                Console.WriteLine("Variable g = {0} is corresponding h = {1}", g, h);
                 g += 0.01;
             }
             // Второй алгоритм
@@ -103,6 +105,7 @@ namespace Loop
                 }
             }
             while (temps != j);
+            Console.WriteLine("m = j ---> {0} = {1}", m, j);
         }
     }
 }
