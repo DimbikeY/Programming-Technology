@@ -1,0 +1,16 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\ref\MatrixMultiply.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\bin\Debug\net5.0\MatrixMultiply.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\ref\MatrixMultiply.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab5\MatrixMultiply\obj\Debug\net5.0\MatrixMultiply.genruntimeconfig.cache
