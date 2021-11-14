@@ -33,7 +33,7 @@ namespace MyClass
         }
         public override string ToString()
         {
-            string bs = String.Format("\nКнига: \n Автор: {0}\n Название: {1}\n Год издания: {2}\n {3} стр.\n Стоимость аренды: {4}", Author, Title, Year, Pages, Book.price);
+            string bs = String.Format("\nКнига: \n Автор: {0}\n Название: {1}\n Год издания: {2}\n {3} стр.\n Стоимость аренды: {4}", Author, Title, Year, Pages, Book.price); // Book.price
             return bs;
         }
         public void Print()

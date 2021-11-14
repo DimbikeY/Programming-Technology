@@ -26,6 +26,11 @@ namespace MyClass
             Book b3 = new Book("Лермонтов М.Ю", "Мцыри");
             b3.Print(); // по умолчанию = 0
 
+            // Упражнение 3
+            Triangle answer = new Triangle(12, 14, 1);
+            answer.Print();
+            answer.Perimeter();
+            answer.Square();
         }
     }
 }
