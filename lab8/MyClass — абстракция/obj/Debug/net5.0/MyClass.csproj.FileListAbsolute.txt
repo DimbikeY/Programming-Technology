@@ -1,0 +1,64 @@
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab6-8 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.genruntimeconfig.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\bin\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass\obj\Debug\net5.0\MyClass.genruntimeconfig.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\MyClass.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\MyClass.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\MyClass.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\MyClass.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\bin\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab7 - переделка без дз\MyClass — абстракция\obj\Debug\net5.0\MyClass.genruntimeconfig.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\MyClass.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\MyClass.deps.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\MyClass.runtimeconfig.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\MyClass.runtimeconfig.dev.json
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\bin\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.AssemblyInfo.cs
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\ref\MyClass.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab8\MyClass — абстракция\obj\Debug\net5.0\MyClass.genruntimeconfig.cache
