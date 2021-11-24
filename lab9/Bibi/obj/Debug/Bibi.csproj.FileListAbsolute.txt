@@ -1,5 +1,0 @@
-C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab9\Bibi\bin\Debug\Bibi.dll
-C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab9\Bibi\bin\Debug\Bibi.pdb
-C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab9\Bibi\obj\Debug\Bibi.csproj.CoreCompileInputs.cache
-C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab9\Bibi\obj\Debug\Bibi.dll
-C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\lab9\Bibi\obj\Debug\Bibi.pdb
