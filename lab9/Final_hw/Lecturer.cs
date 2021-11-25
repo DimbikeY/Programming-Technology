@@ -14,5 +14,6 @@ namespace Final_hw
         public string Profession { get; set; }
         public string Experience { get; set; }
 
+
     }
 }

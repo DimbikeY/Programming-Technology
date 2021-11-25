@@ -8,3 +8,13 @@ C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\ConsoleApp1\obj\D
 C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
 C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\ConsoleApp1\obj\Debug\Aim.csproj.CopyComplete
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\bin\Debug\Final_hw.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\bin\Debug\Final_hw.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\Aim.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\Aim.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\Aim.csproj.CopyComplete

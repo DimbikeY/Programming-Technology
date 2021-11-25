@@ -4,3 +4,9 @@ C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\Final_hw\obj\Debu
 C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\Final_hw\obj\Debug\Final_hw.dll
 C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\Final_hw\obj\Debug\Final_hw.pdb
 C:\Users\MrDol\OneDrive\Рабочий стол\Прога\С#\Final_hw\obj\Debug\Final_hw.csproj.AssemblyReference.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\bin\Debug\Final_hw.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\bin\Debug\Final_hw.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.csproj.CoreCompileInputs.cache
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.dll
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.pdb
+C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.csproj.AssemblyReference.cache
