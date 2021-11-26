@@ -17,15 +17,16 @@ namespace Final_hw
         public double total_salary_without_extra = 0;
         public double total_salary_with_extra;
         public bool vigovor = false;
-        public bool Med_Straxovka { get; set; }
+        public DateTime Med_Straxovka { get; set; }
         public string vacation;
         public double difference;
         public double Feedback { get; set; }
         public double during;
         public DateTime Approved { get; set; }
+        public string expiration_of_med;
+        public DateTime until;
 
-
-        public Service_staff(string surname, string kind_of_work, DateTime date_of_birthday, DateTime approved, double pre_experience, double hours, bool med_straxovka, double feedback)
+        public Service_staff(string surname, string kind_of_work, DateTime date_of_birthday, DateTime approved, double pre_experience, double hours, DateTime med_straxovka, double feedback)
         {
             this.Surname = surname;
             this.Kind_of_Work = kind_of_work;
@@ -63,14 +64,22 @@ namespace Final_hw
 
         public void Extension()
         {
-            Med_Straxovka = true;
+            if (((DateTime.Now.Year - Med_Straxovka.Year) * 12 + Math.Abs(DateTime.Now.Month - Med_Straxovka.Month)) >= 12)
+            {
+                expiration_of_med = "This person should have expirated med straxovka!";
+            }
+            else
+            {
+                expiration_of_med = "Med straxovka still working.";
+            }
+            until = Med_Straxovka.AddYears(1);
         }
         public void Vacation()
         {
             if (vigovor == false)
             {
                 vacation = "The third order line.";
-                if (Approved.Month > 24 && Hours >= 30 && Feedback >= 4)
+                if (during > 24 && Hours >= 30 && Feedback >= 4)
                 {
                     vacation = "The second order line";
                 }
@@ -82,7 +91,7 @@ namespace Final_hw
             else
             {
                 vacation = "The second order line.";
-                if (Approved.Month >= 24 && Hours >= 70 && Feedback == 5)
+                if (during >= 24 && Hours >= 70 && Feedback == 5)
                 {
                     vacation = "The first order line";
                 }
@@ -97,14 +106,14 @@ namespace Final_hw
             if (vigovor == false)
             {
                 total_salary_with_extra = total_salary_without_extra * 1.05f;
-                if (Approved.Month > 36 && Hours >= 60)
+                if (during > 36 && Hours >= 60)
                 {
                     total_salary_with_extra *= 1.05f;
                 }
             }
             else
             {
-                if (Approved.Month >= 24 && Hours >= 35)
+                if (during >= 24 && Hours >= 35)
                 {
                     total_salary_with_extra = total_salary_without_extra * 1.15f;
                 }
@@ -122,8 +131,8 @@ namespace Final_hw
         {
            string bs = String.Format("\nСотрудник: {0} \n   Принят на работу: {1}  \n   Вид деятельности обслуживающ" +
                 "его персонала: {2} \n   Возраст: {3} \n   Стаж работы на данном месте (в месяцах): {4} \n   Стаж работы до этой работы на данной специальности (в месяцах): {5} \n   Количество средних отработанных часов за неделю в течение месяца : {6} \n  " +
-                " Заработная плата: {7}$ \n   Количество выговоров: {8} \n   Приоритетность выдачи отпускных: {9} \n   Мед.страховка: {10}" +
-                " \n   Общая оценка эффективности: {11}.", Surname, Approved, Kind_of_Work, difference, during, Pre_Experience, Hours, total_salary_with_extra, vigovor, vacation, Med_Straxovka, Feedback);
+                " Заработная плата: {7}$ \n   Наличие выговоров: {8} \n   Приоритетность выдачи отпускных: {9} \n   Мед.страховка от: {10}" +
+                " \n   Время окончания действия страховки: {11} - {12} \n   Общая оценка эффективности: {13}.", Surname, Approved, Kind_of_Work, difference, during, Pre_Experience, Hours, total_salary_with_extra, vigovor, vacation, Med_Straxovka, until, expiration_of_med, Feedback);
             return bs;
         }
         public void Print()

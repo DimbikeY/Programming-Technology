@@ -17,4 +17,3 @@ C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\
 C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\Aim.csproj.CoreCompileInputs.cache
 C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
-C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\ConsoleApp1\obj\Debug\Aim.csproj.CopyComplete
