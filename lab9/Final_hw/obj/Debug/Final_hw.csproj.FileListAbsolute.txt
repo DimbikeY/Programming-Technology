@@ -9,4 +9,3 @@ C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\
 C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.csproj.CoreCompileInputs.cache
 C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.dll
 C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.pdb
-C:\Users\MrDol\OneDrive\Рабочий стол\Гиты\Programming-Technology\lab9\Final_hw\obj\Debug\Final_hw.csproj.AssemblyReference.cache

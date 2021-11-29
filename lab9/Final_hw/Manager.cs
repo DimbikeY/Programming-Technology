@@ -29,8 +29,9 @@ namespace Final_hw
         public DateTime Approved { get; set; }
         public string expiration_of_med;
         public DateTime until;
+        public double Amount { get; set; }
 
-        public Manager(string surname, string kind_of_work, DateTime date_of_birthday, DateTime approved, double pre_experience, double hours, DateTime med_straxovka, double feedback, string department)
+        public Manager(string surname, string kind_of_work, DateTime date_of_birthday, DateTime approved, double pre_experience, double hours, DateTime med_straxovka, double feedback, string department, double amount_of_people)
         {
             this.Surname = surname;
             this.Kind_of_Work = kind_of_work;
@@ -41,15 +42,28 @@ namespace Final_hw
             this.Hours = hours;
             this.Approved = approved;
             this.Department = department;
+            this.Amount = amount_of_people;
         }
         public Manager()
         {
-
+            
         }
         
         public void Amount_of_people()
         {
-
+          if (Amount >= 5 && Amount <= 10)
+            {
+                total_salary_without_extra *= 1.1; 
+            }
+          else if  (Amount <= 20)
+            {
+                total_salary_without_extra *= 1.15;
+            } 
+          else
+            {
+                total_salary_without_extra *= 1.2;
+            } 
+            
         }
         public void Work_Experience()
         {
@@ -80,7 +94,7 @@ namespace Final_hw
             }
             else
             {
-                expiration_of_med = "Med straxovka still working.";
+                expiration_of_med = "Med straxovka is still  working.";
             }
             until = Med_Straxovka.AddYears(1);
         }
@@ -140,9 +154,9 @@ namespace Final_hw
         public override string ToString()
         {
             string bs = String.Format("\nСотрудник: {0} \n   Принят на работу: {1}  \n   Вид деятельности лектора:" +
-                " {2} Департамента {14} \n   Степень образования: {15}  \n   Возраст: {3} \n   Стаж работы на данном месте (в месяцах): {4} \n   Стаж работы до этой работы на данной специальности (в месяцах): {5} \n   Количество средних отработанных часов за неделю в течение месяца : {6} \n  " +
+                " {2} Департамента {14} \n   Возраст: {3} \n   Стаж работы на данном месте (в месяцах): {4} \n   Стаж работы до этой работы на данной специальности (в месяцах): {5} \n   Количество средних отработанных часов за неделю в течение месяца: {6} \n  " +
                  " Заработная плата: {7}$ \n   Наличие выговоров: {8} \n   Приоритетность выдачи отпускных: {9} \n   Мед.страховка от: {10}" +
-                 " \n   Время окончания действия страховки: {11} - {12} \n   Общая оценка эффективности: {13}.", Surname, Approved, Kind_of_Work, difference, during, Pre_Experience, Hours, total_salary_with_extra, vigovor, vacation, Med_Straxovka, until, expiration_of_med, Feedback, Department, Experience_in_science);
+                 " \n   Время окончания действия страховки: {11} - {12} \n   Общая оценка эффективности: {13} \n   Количество подчиненного состава: {15}.", Surname, Approved, Kind_of_Work, difference, during, Pre_Experience, Hours, total_salary_with_extra, vigovor, vacation, Med_Straxovka, until, expiration_of_med, Feedback, Department, Amount);
             return bs;
         }
         public void Print()

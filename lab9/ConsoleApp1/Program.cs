@@ -32,6 +32,31 @@ namespace ConsoleApp1
             lecturer.Extension();
             lecturer.Print();
 
+
+            Manager manager = new Manager("Salamatova Anaida Lukievna", "Manager", new DateTime(1984, 1, 15), new DateTime(2017, 7, 12), 30, 45, new DateTime(2021, 11, 20, 10, 3, 5), 5, "ИКТ", 23);
+            manager.Work_Experience();
+            manager.Salary();
+            manager.Amount_of_people();
+            manager.Age();
+            manager.Vacation();
+            manager.Bonus();
+            manager.Extension();
+            manager.Print();
+
+            Student student = new Student("Kekelov Michel Andeerivh", "ФФиоИ", new DateTime(2002, 10, 12), "Дворник", "K3221", "Balchelor", new DateTime(2021, 5, 2, 13, 21, 15), 5, 0);
+            student.Extension();
+            student.Basic_Schoolarship();
+            student.Upper_scolarship();
+            student.Print();
+
+            Administator admin = new Administator("Akakiev Akakiy Akakievich", new DateTime(1917, 12, 1), new DateTime(2011, 12, 5), 500, 45, new DateTime(2020, 7, 12), 5, "лаборатории ноотропов");
+            admin.Salary();
+            admin.Work_Experience();
+            admin.Age();
+            admin.Extension();
+            admin.Vacation();
+            admin.Bonus();
+            admin.Print();
         }
     }
 }

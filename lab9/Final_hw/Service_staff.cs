@@ -70,7 +70,7 @@ namespace Final_hw
             }
             else
             {
-                expiration_of_med = "Med straxovka still working.";
+                expiration_of_med = "Med straxovka is still working.";
             }
             until = Med_Straxovka.AddYears(1);
         }
