@@ -23,7 +23,6 @@ namespace Final_hw
         public bool vigovor = false;
         public DateTime Med_Straxovka { get; set; }
         public string vacation;
-        public double difference;
         public double Feedback { get; set; }
         public double during;
         public DateTime Approved { get; set; }
@@ -88,7 +87,7 @@ namespace Final_hw
         {
             total_salary_without_extra = Basic_Salary + (Approved.Month * 15);
         }
-        public void Age()
+        public override void Age()
         {
             difference = DateTime.Now.Year - Date_of_Birthday.Year;
         }
@@ -174,7 +173,7 @@ namespace Final_hw
                  " \n   Время окончания действия страховки: {11} - {12} \n   Общая оценка эффективности: {13} \n   Количество подчиненного состава: {15}.", Surname, Approved, Kind_of_Work, difference, during, Pre_Experience, Hours, total_salary_with_extra, vigovor, vacation, Med_Straxovka, until, expiration_of_med, Feedback, Department, Amount);
             return bs;
         }
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine(this);
         }

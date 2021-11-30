@@ -22,10 +22,12 @@ namespace Final_hw
         public string expiration_of_med;
         public DateTime until;
 
+        public DateTime Date_of_Birthday;
+
         public DateTime Med_Straxovka { get; set; }
 
 
-        public Student(string surname, string department, DateTime date_of_birthday, string profession, string number_group, string education_type, DateTime med_straxovka, double average_score, double amount_debts)
+        public Student(string surname, string department, DateTime date_of_birthday, string profession, string number_group, string education_type, DateTime med_straxovka, double average_score, double amount_debts, DateTime birhday)
         {
             this.Surname = surname;
             this.Department = department;
@@ -36,6 +38,7 @@ namespace Final_hw
             this.Amount_Debts = amount_debts;
             this.Number_group = number_group;
             this.Education_type = education_type;
+            Date_of_Birthday = birhday;
         }
         public override void Move()
         {
@@ -85,12 +88,17 @@ namespace Final_hw
         {
             string bs = String.Format("\nСтудент: {0} || Факультета: {1} \n   Дата Рождения: {2} \n   Специализация: {3} || Группы: {4} \n   Мед.страховка от: {5}" +
                 " \n   Время окончания действия страховки: {6} - {7} \n   Тип образования: {8} \n   Средний балл: {9}. Количество долгов: {10}" +
-                "\n   Стипендия: {11}$.", Surname, Department, Date_Of_Birthday, Profession, Number_group, Med_Straxovka, until, expiration_of_med, Education_type, Average_Score, Amount_Debts, scolarship);
+                "\n   Стипендия: {11}$\n   Возраст: {12}.", Surname, Department, Date_Of_Birthday, Profession, Number_group, Med_Straxovka, until, expiration_of_med, Education_type, Average_Score, Amount_Debts, scolarship, difference);
             return bs;
         }
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine(this);
+        }
+
+        public override void Age()
+        {
+            difference = DateTime.Now.Year - Date_of_Birthday.Year;
         }
     }
 }

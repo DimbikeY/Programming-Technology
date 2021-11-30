@@ -9,7 +9,7 @@ namespace ConsoleApp1
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Person common_abstract;
             Service_staff service_man = new Service_staff("Kakabaevich Luka Alexeevich", "Washer", new DateTime(1995, 12, 1), new DateTime(2017, 12, 1, 12, 1, 5), 20, 55, new DateTime(2021, 5, 1), 5);
@@ -53,10 +53,11 @@ namespace ConsoleApp1
             manager.Print();
             manager.Fine("Smoking");
 
-            Student student = new Student("Kekelov Michel Andeerivh", "ФФиоИ", new DateTime(2002, 10, 12), "Дворник", "K3221", "Balchelor", new DateTime(2021, 5, 2, 13, 21, 15), 5, 0);
+            Student student = new Student("Kekelov Michel Andeerivh", "ФФиоИ", new DateTime(2002, 10, 12), "Дворник", "K3221", "Balchelor", new DateTime(2021, 5, 2, 13, 21, 15), 5, 0, new DateTime(2001, 12, 4));
             student.Extension();
             student.Basic_Schoolarship();
             student.Upper_scolarship();
+            student.Age();
             common_abstract = student;
             common_abstract.Move();
             student.Print();
@@ -72,6 +73,42 @@ namespace ConsoleApp1
             admin.Bonus();
             admin.Print();
             admin.Fine("Smoking");
+
+
+
+            // Поскольку print имеет одинаковый тип данных, то испоьзуем System.Collections.Generic
+            List<Person> itlist = new List<Person>();
+            itlist.AddRange(new Person[] { manager, student, lecturer, admin, service_man });
+
+            Console.WriteLine("\nИнформация с коллекцей.");
+            foreach (Person x in itlist)
+            {
+                x.Print();
+            }
+
+            // по возрасту в диапазоне
+            Console.WriteLine("\n Диапазон возрастов");
+
+
+            List<Person> my_list = new List<Person>();
+            my_list.AddRange(new Person[] { manager, student, lecturer, admin, service_man });
+            Console.WriteLine("Choose the left side of age=");
+            double left = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Choose the right side of age=");
+            double right = Convert.ToDouble(Console.ReadLine());
+            foreach (Person x in my_list)
+            {
+                if (x.difference >= left && x.difference <= right)
+                {
+                    x.Print();
+                }
+            }
+            Console.WriteLine("The end!");
+          
+
+
+
+
         }
     }
 }

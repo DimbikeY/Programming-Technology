@@ -20,7 +20,7 @@ namespace Final_hw
         public bool vigovor = false;
         public DateTime Med_Straxovka { get; set; }
         public string vacation;
-        public double difference;
+
         public double Feedback { get; set; }
         public double during;
         public DateTime Approved { get; set; }
@@ -63,7 +63,7 @@ namespace Final_hw
         {
             total_salary_without_extra = Basic_Salary + (Approved.Month * 15);
         }
-        public void Age()
+        public override void Age()
         {
             difference = DateTime.Now.Year - Date_Of_Birthday.Year;
         }
@@ -149,10 +149,10 @@ namespace Final_hw
         {
             string bs = String.Format("\nСотрудник: {0} \n   Администратор {1} \n   Дата Рождения: {2} \n   Прошлый опыт (в месяцах) : {3}\n   " +
                 "Мед.страховка от {4}. Время окончания действия страховки: {5} - {6} \n   Принят на работу: {7} \n   Количество выработанных часов за неделю: {8}\n   Наличие выговоров: {9}\n   Очередь в отпуск: {10}\n   Итоговая зарплата" +
-                ": {11}$.", Surname, Laboratory, Date_Of_Birthday, Pre_Experience, Med_Straxovka, until, expiration_of_med, Approved, Hours, vigovor, vacation, total_salary_with_extra);
+                ": {11}$\n   Возраст: {12}.", Surname, Laboratory, Date_Of_Birthday, Pre_Experience, Med_Straxovka, until, expiration_of_med, Approved, Hours, vigovor, vacation, total_salary_with_extra, difference);
             return bs;
         }
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine(this);
         }
